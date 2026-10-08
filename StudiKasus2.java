@@ -39,7 +39,13 @@ public class StudiKasus2 {
             } else {
                 System.out.println("Maaf " + namaMahasiswa + ", Anda tidak memenuhi syarat untuk mendapatkan penghargaan.");
             }
-        } 
+
+        } else {
+
+            // BUAT YANG LANINNYAAAA
+            System.out.println("Status : Kegiatan lainnya tidak memperoleh dana penghargaan.");
+        }
+
         input.close();
     }
 }
